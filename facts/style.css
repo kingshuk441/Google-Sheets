@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+.box-one{
+    background: blue;
+    height: 200px;
+    width: 200px;
+}
+.box-two{
+    background: red;
+    height: 200px;
+    width: 200px;
+}
+.box-three{
+    background: green;
+    height: 200px;
+    width: 200px;
+}
